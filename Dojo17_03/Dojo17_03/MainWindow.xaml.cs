@@ -42,10 +42,10 @@ namespace Dojo17_03
             if (openFileDialog.ShowDialog() == true)
             { 
                 txtBox.Text = File.ReadAllText(openFileDialog.FileName);
-               
+                openFileDialog.CheckFileExists = false;
+                openFileDialog.CheckPathExists = false;
             }
-            //openFileDialog.CheckFileExists = false;
-            //openFileDialog.CheckPathExists = false;
+            
         }
 
         private void MenuItem_SaveFile_Click(object sender, RoutedEventArgs e)
