@@ -5,20 +5,20 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:Dojo17_03"
         mc:Ignorable="d"
-        Title="MainWindow" Height="450" Width="800">
+        Title="Notepad" Height="450" Width="800">
     <Grid>
         <Grid HorizontalAlignment="Left" Height="31.833" Margin="0,0.492,0,0" VerticalAlignment="Top" Width="792"/>
         <DockPanel>
-            <Menu DockPanel.Dock="Top">
-                <MenuItem Header="_File">
-                    <MenuItem Header="New" Click="MenuItem_NewFile_Click"/>
-                    <MenuItem Header="Open" Click="MenuItem_OpenFile_Click"/>
-                    <MenuItem Header="Save" Click="MenuItem_SaveFile_Click"/>
+            <Menu DockPanel.Dock="Top" Background="#FF0C101D" Foreground="#FFF1E6E6">
+                <MenuItem Header="_File" Foreground="#FFF9E9E9" Background="#FF0C101D">
+                    <MenuItem Header="New" Click="MenuItem_NewFile_Click" Foreground="#FFF9E9E9" Background="#FF0C101D" BorderBrush="#FF0C101D" Opacity="0.99" OpacityMask="Black"/>
+                    <MenuItem Header="Open" Click="MenuItem_OpenFile_Click" Foreground="#FFF9E9E9" Background="#FF0C101D" BorderBrush="#FF0C101D"/>
+                    <MenuItem Header="Save" Click="MenuItem_SaveFile_Click" Foreground="#FFF9E1E1" Background="#FF0C101D" BorderBrush="#FF0C101D"/>
                 </MenuItem>
             </Menu>
-            <TextBox Name="txtBox"/>
+            <TextBox Name="txtBox" OpacityMask="Black" Background="#FF0B0A0E" Foreground="#FFFDFDFD"/>
         </DockPanel>
-        
+
 
     </Grid>
 </Window>

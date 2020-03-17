@@ -12,3 +12,17 @@ C:\Users\Student\source\repos\Dojo17-03_XAML\Dojo17_03\Dojo17_03\obj\Debug\Dojo1
 C:\Users\Student\source\repos\Dojo17-03_XAML\Dojo17_03\Dojo17_03\obj\Debug\Dojo17_03.csproj.GenerateResource.cache
 C:\Users\Student\source\repos\Dojo17-03_XAML\Dojo17_03\Dojo17_03\obj\Debug\Dojo17_03.exe
 C:\Users\Student\source\repos\Dojo17-03_XAML\Dojo17_03\Dojo17_03\obj\Debug\Dojo17_03.pdb
+C:\Users\Student\Desktop\Dojo\Dojo17-03_XAML\Dojo17_03\Dojo17_03\bin\Debug\Dojo17_03.exe.config
+C:\Users\Student\Desktop\Dojo\Dojo17-03_XAML\Dojo17_03\Dojo17_03\bin\Debug\Dojo17_03.exe
+C:\Users\Student\Desktop\Dojo\Dojo17-03_XAML\Dojo17_03\Dojo17_03\bin\Debug\Dojo17_03.pdb
+C:\Users\Student\Desktop\Dojo\Dojo17-03_XAML\Dojo17_03\Dojo17_03\obj\Debug\Dojo17_03.csprojAssemblyReference.cache
+C:\Users\Student\Desktop\Dojo\Dojo17-03_XAML\Dojo17_03\Dojo17_03\obj\Debug\MainWindow.g.cs
+C:\Users\Student\Desktop\Dojo\Dojo17-03_XAML\Dojo17_03\Dojo17_03\obj\Debug\App.g.cs
+C:\Users\Student\Desktop\Dojo\Dojo17-03_XAML\Dojo17_03\Dojo17_03\obj\Debug\Dojo17_03_MarkupCompile.cache
+C:\Users\Student\Desktop\Dojo\Dojo17-03_XAML\Dojo17_03\Dojo17_03\obj\Debug\Dojo17_03_MarkupCompile.lref
+C:\Users\Student\Desktop\Dojo\Dojo17-03_XAML\Dojo17_03\Dojo17_03\obj\Debug\MainWindow.baml
+C:\Users\Student\Desktop\Dojo\Dojo17-03_XAML\Dojo17_03\Dojo17_03\obj\Debug\Dojo17_03.g.resources
+C:\Users\Student\Desktop\Dojo\Dojo17-03_XAML\Dojo17_03\Dojo17_03\obj\Debug\Dojo17_03.Properties.Resources.resources
+C:\Users\Student\Desktop\Dojo\Dojo17-03_XAML\Dojo17_03\Dojo17_03\obj\Debug\Dojo17_03.csproj.GenerateResource.cache
+C:\Users\Student\Desktop\Dojo\Dojo17-03_XAML\Dojo17_03\Dojo17_03\obj\Debug\Dojo17_03.exe
+C:\Users\Student\Desktop\Dojo\Dojo17-03_XAML\Dojo17_03\Dojo17_03\obj\Debug\Dojo17_03.pdb
