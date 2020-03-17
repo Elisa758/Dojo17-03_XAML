@@ -26,3 +26,17 @@ C:\Users\Student\Desktop\Dojo\Dojo17-03_XAML\Dojo17_03\Dojo17_03\obj\Debug\Dojo1
 C:\Users\Student\Desktop\Dojo\Dojo17-03_XAML\Dojo17_03\Dojo17_03\obj\Debug\Dojo17_03.csproj.GenerateResource.cache
 C:\Users\Student\Desktop\Dojo\Dojo17-03_XAML\Dojo17_03\Dojo17_03\obj\Debug\Dojo17_03.exe
 C:\Users\Student\Desktop\Dojo\Dojo17-03_XAML\Dojo17_03\Dojo17_03\obj\Debug\Dojo17_03.pdb
+E:\dojoXAML2\Dojo17-03_XAML\Dojo17_03\Dojo17_03\bin\Debug\Dojo17_03.exe.config
+E:\dojoXAML2\Dojo17-03_XAML\Dojo17_03\Dojo17_03\bin\Debug\Dojo17_03.exe
+E:\dojoXAML2\Dojo17-03_XAML\Dojo17_03\Dojo17_03\bin\Debug\Dojo17_03.pdb
+E:\dojoXAML2\Dojo17-03_XAML\Dojo17_03\Dojo17_03\obj\Debug\Dojo17_03.csprojAssemblyReference.cache
+E:\dojoXAML2\Dojo17-03_XAML\Dojo17_03\Dojo17_03\obj\Debug\MainWindow.g.cs
+E:\dojoXAML2\Dojo17-03_XAML\Dojo17_03\Dojo17_03\obj\Debug\App.g.cs
+E:\dojoXAML2\Dojo17-03_XAML\Dojo17_03\Dojo17_03\obj\Debug\Dojo17_03_MarkupCompile.cache
+E:\dojoXAML2\Dojo17-03_XAML\Dojo17_03\Dojo17_03\obj\Debug\Dojo17_03_MarkupCompile.lref
+E:\dojoXAML2\Dojo17-03_XAML\Dojo17_03\Dojo17_03\obj\Debug\MainWindow.baml
+E:\dojoXAML2\Dojo17-03_XAML\Dojo17_03\Dojo17_03\obj\Debug\Dojo17_03.g.resources
+E:\dojoXAML2\Dojo17-03_XAML\Dojo17_03\Dojo17_03\obj\Debug\Dojo17_03.Properties.Resources.resources
+E:\dojoXAML2\Dojo17-03_XAML\Dojo17_03\Dojo17_03\obj\Debug\Dojo17_03.csproj.GenerateResource.cache
+E:\dojoXAML2\Dojo17-03_XAML\Dojo17_03\Dojo17_03\obj\Debug\Dojo17_03.exe
+E:\dojoXAML2\Dojo17-03_XAML\Dojo17_03\Dojo17_03\obj\Debug\Dojo17_03.pdb

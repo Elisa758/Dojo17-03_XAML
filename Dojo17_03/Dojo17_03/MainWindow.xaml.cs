@@ -57,5 +57,15 @@ namespace Dojo17_03
             }
 
         }
+        private void MenuItem_Copy_Click(object sender, RoutedEventArgs e)
+        {
+            Clipboard.SetText(txtBox.Text);
+        }
+
+        private void MenuItem_Paste_Click(object sender, RoutedEventArgs e)
+        {
+            Clipboard.GetText();
+            txtBox.Paste();
+        }
     }
 }

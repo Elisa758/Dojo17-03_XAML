@@ -15,8 +15,12 @@
                     <MenuItem Header="Open" Click="MenuItem_OpenFile_Click" Foreground="#FFF9E9E9" Background="#FF0C101D" BorderBrush="#FF0C101D"/>
                     <MenuItem Header="Save" Click="MenuItem_SaveFile_Click" Foreground="#FFF9E1E1" Background="#FF0C101D" BorderBrush="#FF0C101D"/>
                 </MenuItem>
+                <MenuItem Header="_Edit" Foreground="#FFF9E9E9" Background="#FF0C101D">
+                    <MenuItem Header="Copy" Click="MenuItem_Copy_Click" Foreground="#FFF9E9E9" Background="#FF0C101D" BorderBrush="#FF0C101D" Opacity="0.99" OpacityMask="Black"/>
+                    <MenuItem Header="Paste" Click="MenuItem_Paste_Click" Foreground="#FFF9E9E9" Background="#FF0C101D" BorderBrush="#FF0C101D"/>
+                </MenuItem>
             </Menu>
-            <TextBox Name="txtBox" OpacityMask="Black" Background="#FF0B0A0E" Foreground="#FFFDFDFD"/>
+            <TextBox Name="txtBox" OpacityMask="Black" Background="#FF0B0A0E" Foreground="#FFFDFDFD" AcceptsReturn="True"/>
         </DockPanel>
 
 
