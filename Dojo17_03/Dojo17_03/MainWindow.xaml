@@ -7,6 +7,18 @@
         mc:Ignorable="d"
         Title="MainWindow" Height="450" Width="800">
     <Grid>
+        <Grid HorizontalAlignment="Left" Height="31.833" Margin="0,0.492,0,0" VerticalAlignment="Top" Width="792"/>
+        <DockPanel>
+            <Menu DockPanel.Dock="Top">
+                <MenuItem Header="_File">
+                    <MenuItem Header="New" Click="MenuItem_NewFile_Click"/>
+                    <MenuItem Header="Open" Click="MenuItem_OpenFile_Click"/>
+                    <MenuItem Header="Save" Click="MenuItem_SaveFile_Click"/>
+                </MenuItem>
+            </Menu>
+            <TextBox Name="txtBox"/>
+        </DockPanel>
         
+
     </Grid>
 </Window>
